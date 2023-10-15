@@ -85,31 +85,51 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "00. .NET 8 - Native AOT", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNet8.NativeAot.Console", "DotNet8.NativeAot.Console\DotNet8.NativeAot.Console.csproj", "{EBE5FDBD-9B36-4112-AB65-D91C5DCBFCB3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet8.NativeAot.Worker", "DotNet8.NativeAot.Worker\DotNet8.NativeAot.Worker.csproj", "{F5888B82-533E-4372-8D25-D6B88826621F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNet8.NativeAot.Worker", "DotNet8.NativeAot.Worker\DotNet8.NativeAot.Worker.csproj", "{F5888B82-533E-4372-8D25-D6B88826621F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet8.NativeAot.WebApi", "DotNet8.NativeAot.WebApi\DotNet8.NativeAot.WebApi.csproj", "{1B8DBF72-421D-49F3-9AA3-C31D3F238C20}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNet8.NativeAot.WebApi", "DotNet8.NativeAot.WebApi\DotNet8.NativeAot.WebApi.csproj", "{1B8DBF72-421D-49F3-9AA3-C31D3F238C20}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet8.NativeAot.Grpc", "DotNet8.NativeAot.Grpc\DotNet8.NativeAot.Grpc.csproj", "{D0077A2D-B456-4933-B5AC-98EC18F3D233}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNet8.NativeAot.Grpc", "DotNet8.NativeAot.Grpc\DotNet8.NativeAot.Grpc.csproj", "{D0077A2D-B456-4933-B5AC-98EC18F3D233}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet8.TimeAbstraction", "DotNet8.TimeAbstraction\DotNet8.TimeAbstraction.csproj", "{4563A55A-9F77-4199-9BBF-554C225D9DAF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNet8.TimeAbstraction", "DotNet8.TimeAbstraction\DotNet8.TimeAbstraction.csproj", "{4563A55A-9F77-4199-9BBF-554C225D9DAF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet8.TimeAbstraction.Tests", "DotNet8.TimeAbstraction.Tests\DotNet8.TimeAbstraction.Tests.csproj", "{CE328BBE-5A79-48DC-938F-D63424752F88}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNet8.TimeAbstraction.Tests", "DotNet8.TimeAbstraction.Tests\DotNet8.TimeAbstraction.Tests.csproj", "{CE328BBE-5A79-48DC-938F-D63424752F88}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dotnet8.StreamBasedZipFile", "Dotnet8.StreamBasedZipFile\Dotnet8.StreamBasedZipFile.csproj", "{DBCA2D90-B7D8-4D2C-A2CC-8BE100367142}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dotnet8.StreamBasedZipFile", "Dotnet8.StreamBasedZipFile\Dotnet8.StreamBasedZipFile.csproj", "{DBCA2D90-B7D8-4D2C-A2CC-8BE100367142}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet8.Sha8Support", "DotNet8.Sha8Support\DotNet8.Sha8Support.csproj", "{B96B6E1D-B7AE-416F-B287-93449AC18980}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNet8.Sha8Support", "DotNet8.Sha8Support\DotNet8.Sha8Support.csproj", "{B96B6E1D-B7AE-416F-B287-93449AC18980}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "10. .NET 8 - Keyed Dependency Injection", "10. .NET 8 - Keyed Dependency Injection", "{3086EC51-FC9F-4C7D-A2FB-6D11C0A59B76}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet8.KeyedDependencyInjection", "DotNet8.KeyedDependencyInjection\DotNet8.KeyedDependencyInjection.csproj", "{7A83AF18-9192-429C-95D0-0EA3807C15E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNet8.KeyedDependencyInjection", "DotNet8.KeyedDependencyInjection\DotNet8.KeyedDependencyInjection.csproj", "{7A83AF18-9192-429C-95D0-0EA3807C15E2}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "11. .NET 8 - WPF Hardware Rendering in RDP", "11. .NET 8 - WPF Hardware Rendering in RDP", "{8EE4398B-66E7-4880-86BD-745DDEC4AB9B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "12. .NET 8 - WPF OpenFolderDialog", "12. .NET 8 - WPF OpenFolderDialog", "{D7988AC3-9FD3-4F49-AEFA-07C788A3704B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet8.Wpf.RdpHardwareRendering", "DotNet8.Wpf.RdpHardwareRendering\DotNet8.Wpf.RdpHardwareRendering.csproj", "{F1FF595C-FC96-48C3-8774-DA3DAE53AC87}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNet8.Wpf.RdpHardwareRendering", "DotNet8.Wpf.RdpHardwareRendering\DotNet8.Wpf.RdpHardwareRendering.csproj", "{F1FF595C-FC96-48C3-8774-DA3DAE53AC87}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet8.Wpf.OpenFolderDialog", "DotNet8.Wpf.OpenFolderDialog\DotNet8.Wpf.OpenFolderDialog.csproj", "{25EE3EAB-EF2F-4D69-87A1-1536235DB310}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNet8.Wpf.OpenFolderDialog", "DotNet8.Wpf.OpenFolderDialog\DotNet8.Wpf.OpenFolderDialog.csproj", "{25EE3EAB-EF2F-4D69-87A1-1536235DB310}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCore8.BlazorAuto", "AspNetCore8.BlazorAuto\AspNetCore8.BlazorAuto\AspNetCore8.BlazorAuto.csproj", "{109E9251-845D-47AE-B384-E0C0F475BC5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCore8.BlazorAuto.Client", "AspNetCore8.BlazorAuto\AspNetCore8.BlazorAuto.Client\AspNetCore8.BlazorAuto.Client.csproj", "{BBC6A06D-D1EF-4EBD-B25A-E7D517DBD39E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCore8.ApiIdentityEndpoints", "AspNetCore8.ApiIdentityEndpoints\AspNetCore8.ApiIdentityEndpoints.csproj", "{7BFE84F4-7218-4EB1-91CE-62C9E9FC0B51}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "96. C# 12 - Interceptors", "96. C# 12 - Interceptors", "{417CF12A-9ED1-4D7A-83DF-239703C5466F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp12.Interceptors", "CSharp12.Interceptors\CSharp12.Interceptors.csproj", "{E763497D-B389-426A-B57C-C66310E9243F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "13. .NET 8 - Configuration Binder Source Generator", "13. .NET 8 - Configuration Binder Source Generator", "{E01FC874-0369-4493-976E-4EF338FDAC0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet8.ConfigurationBinderSourceGenerator", "DotNet8.ConfigurationBinderSourceGenerator\DotNet8.ConfigurationBinderSourceGenerator.csproj", "{86315E4F-BFDF-4B96-9415-F34B7A23E0E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet8.ConfigurationBinderWithoutSourceGenerator", "DotNet8.ConfigurationBinderWithoutSourceGenerator\DotNet8.ConfigurationBinderWithoutSourceGenerator.csproj", "{CB452903-7041-4214-A431-FB2AB00C4B61}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "51. ASP.NET Core 8 - Minimal API Form Binding", "51. ASP.NET Core 8 - Minimal API Form Binding", "{33B4E13A-FEF8-49FE-9981-DF8988B20AC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCore8.MinimalApiFormBinding", "AspNetCore8.MinimalApiFormBinding\AspNetCore8.MinimalApiFormBinding.csproj", "{112F9517-8BEB-4105-AE74-3048ABAAE675}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -205,6 +225,34 @@ Global
 		{25EE3EAB-EF2F-4D69-87A1-1536235DB310}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{25EE3EAB-EF2F-4D69-87A1-1536235DB310}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{25EE3EAB-EF2F-4D69-87A1-1536235DB310}.Release|Any CPU.Build.0 = Release|Any CPU
+		{109E9251-845D-47AE-B384-E0C0F475BC5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{109E9251-845D-47AE-B384-E0C0F475BC5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{109E9251-845D-47AE-B384-E0C0F475BC5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{109E9251-845D-47AE-B384-E0C0F475BC5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBC6A06D-D1EF-4EBD-B25A-E7D517DBD39E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBC6A06D-D1EF-4EBD-B25A-E7D517DBD39E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBC6A06D-D1EF-4EBD-B25A-E7D517DBD39E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBC6A06D-D1EF-4EBD-B25A-E7D517DBD39E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BFE84F4-7218-4EB1-91CE-62C9E9FC0B51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BFE84F4-7218-4EB1-91CE-62C9E9FC0B51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BFE84F4-7218-4EB1-91CE-62C9E9FC0B51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BFE84F4-7218-4EB1-91CE-62C9E9FC0B51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E763497D-B389-426A-B57C-C66310E9243F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E763497D-B389-426A-B57C-C66310E9243F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E763497D-B389-426A-B57C-C66310E9243F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E763497D-B389-426A-B57C-C66310E9243F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86315E4F-BFDF-4B96-9415-F34B7A23E0E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86315E4F-BFDF-4B96-9415-F34B7A23E0E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86315E4F-BFDF-4B96-9415-F34B7A23E0E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86315E4F-BFDF-4B96-9415-F34B7A23E0E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB452903-7041-4214-A431-FB2AB00C4B61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB452903-7041-4214-A431-FB2AB00C4B61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB452903-7041-4214-A431-FB2AB00C4B61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB452903-7041-4214-A431-FB2AB00C4B61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{112F9517-8BEB-4105-AE74-3048ABAAE675}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{112F9517-8BEB-4105-AE74-3048ABAAE675}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{112F9517-8BEB-4105-AE74-3048ABAAE675}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{112F9517-8BEB-4105-AE74-3048ABAAE675}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -232,6 +280,13 @@ Global
 		{7A83AF18-9192-429C-95D0-0EA3807C15E2} = {3086EC51-FC9F-4C7D-A2FB-6D11C0A59B76}
 		{F1FF595C-FC96-48C3-8774-DA3DAE53AC87} = {8EE4398B-66E7-4880-86BD-745DDEC4AB9B}
 		{25EE3EAB-EF2F-4D69-87A1-1536235DB310} = {D7988AC3-9FD3-4F49-AEFA-07C788A3704B}
+		{109E9251-845D-47AE-B384-E0C0F475BC5C} = {45286E35-0F7B-4652-9DBC-FA17E8E60E43}
+		{BBC6A06D-D1EF-4EBD-B25A-E7D517DBD39E} = {45286E35-0F7B-4652-9DBC-FA17E8E60E43}
+		{7BFE84F4-7218-4EB1-91CE-62C9E9FC0B51} = {E8096747-3D51-4A2E-B283-05C00F86B651}
+		{E763497D-B389-426A-B57C-C66310E9243F} = {417CF12A-9ED1-4D7A-83DF-239703C5466F}
+		{86315E4F-BFDF-4B96-9415-F34B7A23E0E2} = {E01FC874-0369-4493-976E-4EF338FDAC0A}
+		{CB452903-7041-4214-A431-FB2AB00C4B61} = {E01FC874-0369-4493-976E-4EF338FDAC0A}
+		{112F9517-8BEB-4105-AE74-3048ABAAE675} = {33B4E13A-FEF8-49FE-9981-DF8988B20AC6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {09DE9320-026F-4BC5-A0EC-7FABCCE71CED}
