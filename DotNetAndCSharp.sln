@@ -139,6 +139,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EfCore8.DateOnlyTimeOnlySup
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfCore8.JsonColumnsForSqlite", "EfCore8.JsonColumnsForSqlite\EfCore8.JsonColumnsForSqlite.csproj", "{81786F12-7A5C-4D75-95CE-CAA20AC910A4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfCore8.SentinelValuesAndDatabaseDefaults", "EfCore8.SentinelValuesAndDatabaseDefaults\EfCore8.SentinelValuesAndDatabaseDefaults.csproj", "{55B0AEB6-8EC2-49D0-9401-942DBA0CE6EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -277,6 +279,10 @@ Global
 		{81786F12-7A5C-4D75-95CE-CAA20AC910A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{81786F12-7A5C-4D75-95CE-CAA20AC910A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{81786F12-7A5C-4D75-95CE-CAA20AC910A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55B0AEB6-8EC2-49D0-9401-942DBA0CE6EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55B0AEB6-8EC2-49D0-9401-942DBA0CE6EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55B0AEB6-8EC2-49D0-9401-942DBA0CE6EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55B0AEB6-8EC2-49D0-9401-942DBA0CE6EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -315,6 +321,7 @@ Global
 		{37006794-E2E9-43B7-A48E-56D9EE10790A} = {3563759B-B805-425E-B67E-ED6F950E73B9}
 		{2BFD5D03-9761-4127-B594-F72E77870980} = {B6CF0A44-E0B3-49F6-B363-A23A80D7C180}
 		{81786F12-7A5C-4D75-95CE-CAA20AC910A4} = {9635F29C-6FD3-4C42-94AF-872857C2380C}
+		{55B0AEB6-8EC2-49D0-9401-942DBA0CE6EE} = {7973679D-E7A1-441A-A330-A0A087C72525}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {09DE9320-026F-4BC5-A0EC-7FABCCE71CED}
