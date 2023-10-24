@@ -11,27 +11,27 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp12.UsingDirectivesFor
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp12.DefaultValuesForLambdaExpressions", "CSharp12.DefaultValuesForLambdaExpressions\CSharp12.DefaultValuesForLambdaExpressions.csproj", "{F6EBB5F1-0F9A-4678-B6FE-94D019A5C652}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01. .NET 8 - Random Utilities", "01. .NET 8 - Random Utilities", "{8312127A-6DA2-4878-A6F2-4F88DB62B3C4}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02. .NET 8 - Random Utilities", "02. .NET 8 - Random Utilities", "{8312127A-6DA2-4878-A6F2-4F88DB62B3C4}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNet8.RandomUtilities", "DotNet8.RandomUtilities\DotNet8.RandomUtilities.csproj", "{B841AAF2-A47A-456E-9F5C-B88C04F8AB13}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02. .NET 8 - System.Text.Json Additions", "02. .NET 8 - System.Text.Json Additions", "{5F0377AE-6615-4516-A5E8-9D188BB91A11}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03. .NET 8 - System.Text.Json Additions", "03. .NET 8 - System.Text.Json Additions", "{5F0377AE-6615-4516-A5E8-9D188BB91A11}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNet8.JsonAdditions", "DotNet8.JsonAdditions\DotNet8.JsonAdditions.csproj", "{A4E1CB0E-D651-4FA6-8FDF-5A2B433112A3}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03. .NET 8 - Performance-Focused Types", "03. .NET 8 - Performance-Focused Types", "{8C44BA0E-C272-4915-B664-B6B11A5AF7F8}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04. .NET 8 - Performance-Focused Types", "04. .NET 8 - Performance-Focused Types", "{8C44BA0E-C272-4915-B664-B6B11A5AF7F8}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNet8.PerformanceFocussedTypes", "DotNet8.PerformanceFocussedTypes\DotNet8.PerformanceFocussedTypes.csproj", "{6CE1D6FB-B5E1-4265-9B40-E388AD3FC39B}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04. .NET 8 - Extended DataAnnotations", "04. .NET 8 - Extended DataAnnotations", "{7402D848-1CFE-4B4C-B31A-7B7641021E0E}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05. .NET 8 - Extended DataAnnotations", "05. .NET 8 - Extended DataAnnotations", "{7402D848-1CFE-4B4C-B31A-7B7641021E0E}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNet8.ExtendedDataAnnotations", "DotNet8.ExtendedDataAnnotations\DotNet8.ExtendedDataAnnotations.csproj", "{D933D871-911D-4F4F-BE02-84CDCB2F32D2}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05. .NET 8 - Simplified Output Path", "05. .NET 8 - Simplified Output Path", "{B4409FA7-916B-459D-8C97-223E1B930955}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06. .NET 8 - Simplified Output Path", "06. .NET 8 - Simplified Output Path", "{B4409FA7-916B-459D-8C97-223E1B930955}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNet8.SimplifiedOutputPath", "DotNet8.SimplifiedOutputPath\DotNet8.SimplifiedOutputPath.csproj", "{54B556AA-0973-4E02-BEF8-7A6CD0CB4CFB}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06. .NET 8 - Time Abstraction", "06. .NET 8 - Time Abstraction", "{7A607FE5-8F91-4A02-A725-9F6BD715DBB0}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07. .NET 8 - Time Abstraction", "07. .NET 8 - Time Abstraction", "{7A607FE5-8F91-4A02-A725-9F6BD715DBB0}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "08. .NET 8 - Stream-Based ZipFile", "08. .NET 8 - Stream-Based ZipFile", "{5371B8D9-6756-4A59-ACA9-7FB97E2DA14F}"
 EndProject
@@ -47,17 +47,17 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "73. EF Core 8 - JSON Column
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "74. EF Core 8 - HierarchyId support", "74. EF Core 8 - HierarchyId support", "{EDD877DD-F665-4425-9F7A-F441CFE31994}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "76. EF Core 8 - Numeric RowVersions for SQL Server", "76. EF Core 8 - Numeric RowVersions for SQL Server", "{21C3441D-E370-47F1-9F1F-1DED8ADE6FFF}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "75. EF Core 8 - Numeric RowVersions for SQL Server", "75. EF Core 8 - Numeric RowVersions for SQL Server", "{21C3441D-E370-47F1-9F1F-1DED8ADE6FFF}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "78. EF Core 8 - Improved ExecuteUpdate and ExecuteDelete", "78. EF Core 8 - Improved ExecuteUpdate and ExecuteDelete", "{4DC3E4A8-51AD-4365-BBA4-BB0FF49E780D}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "76. EF Core 8 - Improved ExecuteUpdate and ExecuteDelete", "76. EF Core 8 - Improved ExecuteUpdate and ExecuteDelete", "{4DC3E4A8-51AD-4365-BBA4-BB0FF49E780D}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "79. EF Core 8 - Sentinel Values and Database Defaults", "79. EF Core 8 - Sentinel Values and Database Defaults", "{7973679D-E7A1-441A-A330-A0A087C72525}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "77. EF Core 8 - Sentinel Values and Database Defaults", "77. EF Core 8 - Sentinel Values and Database Defaults", "{7973679D-E7A1-441A-A330-A0A087C72525}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "80. EF Core 8 - Complex Types as Value Objects", "80. EF Core 8 - Complex Types as Value Objects", "{0B772F44-A4B1-4B26-8111-299052725950}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "78. EF Core 8 - Complex Types as Value Objects", "78. EF Core 8 - Complex Types as Value Objects", "{0B772F44-A4B1-4B26-8111-299052725950}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "40. ASP.NET Core 8 - Blazor Auto", "40. ASP.NET Core 8 - Blazor Auto", "{45286E35-0F7B-4652-9DBC-FA17E8E60E43}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "50. ASP.NET Core 8 - Identity API Endpoints", "50. ASP.NET Core 8 - Identity API Endpoints", "{E8096747-3D51-4A2E-B283-05C00F86B651}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "41. ASP.NET Core 8 - Identity API Endpoints", "41. ASP.NET Core 8 - Identity API Endpoints", "{E8096747-3D51-4A2E-B283-05C00F86B651}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "90. C# 12 - Default Values For Lambda Expressions", "90. C# 12 - Default Values For Lambda Expressions", "{489A2FFC-0899-4980-93BF-340843691879}"
 EndProject
@@ -75,7 +75,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp12.CollectionExpressi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp12.NameofInstanceMembers", "CSharp12.NameofInstanceMembers\CSharp12.NameofInstanceMembers.csproj", "{2A87B9E8-5A6C-473F-9471-371DEE80217B}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "00. .NET 8 - Native AOT", "00. .NET 8 - Native AOT", "{C156A1F7-2847-4E1E-9997-5DDDC47DA9B2}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01. .NET 8 - Native AOT", "01. .NET 8 - Native AOT", "{C156A1F7-2847-4E1E-9997-5DDDC47DA9B2}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNet8.NativeAot.Console", "DotNet8.NativeAot.Console\DotNet8.NativeAot.Console.csproj", "{EBE5FDBD-9B36-4112-AB65-D91C5DCBFCB3}"
 EndProject
@@ -91,7 +91,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNet8.TimeAbstraction.Tes
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dotnet8.StreamBasedZipFile", "Dotnet8.StreamBasedZipFile\Dotnet8.StreamBasedZipFile.csproj", "{DBCA2D90-B7D8-4D2C-A2CC-8BE100367142}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNet8.Sha8Support", "DotNet8.Sha8Support\DotNet8.Sha8Support.csproj", "{B96B6E1D-B7AE-416F-B287-93449AC18980}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNet8.Sha3Support", "DotNet8.Sha3Support\DotNet8.Sha3Support.csproj", "{B96B6E1D-B7AE-416F-B287-93449AC18980}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "10. .NET 8 - Keyed Dependency Injection", "10. .NET 8 - Keyed Dependency Injection", "{3086EC51-FC9F-4C7D-A2FB-6D11C0A59B76}"
 EndProject
@@ -121,7 +121,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNet8.ConfigurationBinder
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNet8.ConfigurationBinderWithoutSourceGenerator", "DotNet8.ConfigurationBinderWithoutSourceGenerator\DotNet8.ConfigurationBinderWithoutSourceGenerator.csproj", "{CB452903-7041-4214-A431-FB2AB00C4B61}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "51. ASP.NET Core 8 - Minimal API Form Binding", "51. ASP.NET Core 8 - Minimal API Form Binding", "{33B4E13A-FEF8-49FE-9981-DF8988B20AC6}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "42. ASP.NET Core 8 - Minimal API Form Binding", "42. ASP.NET Core 8 - Minimal API Form Binding", "{33B4E13A-FEF8-49FE-9981-DF8988B20AC6}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspNetCore8.MinimalApiFormBinding", "AspNetCore8.MinimalApiFormBinding\AspNetCore8.MinimalApiFormBinding.csproj", "{112F9517-8BEB-4105-AE74-3048ABAAE675}"
 EndProject
@@ -135,11 +135,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EfCore8.JsonColumnsForSqlit
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EfCore8.SentinelValuesAndDatabaseDefaults", "EfCore8.SentinelValuesAndDatabaseDefaults\EfCore8.SentinelValuesAndDatabaseDefaults.csproj", "{55B0AEB6-8EC2-49D0-9401-942DBA0CE6EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfCore8.ComplexTypesAsValueObjects", "EfCore8.ComplexTypesAsValueObjects\EfCore8.ComplexTypesAsValueObjects.csproj", "{7D74F194-C09B-4249-8226-BF16B2CD9CD1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EfCore8.ComplexTypesAsValueObjects", "EfCore8.ComplexTypesAsValueObjects\EfCore8.ComplexTypesAsValueObjects.csproj", "{7D74F194-C09B-4249-8226-BF16B2CD9CD1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfCore8.ImprovedExecuteUpdateAndExecuteDelete", "EfCore8.ImprovedExecuteUpdateAndExecuteDelete\EfCore8.ImprovedExecuteUpdateAndExecuteDelete.csproj", "{2D7FDE22-B5E1-402A-A6C8-60679AA03B9F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EfCore8.ImprovedExecuteUpdateAndExecuteDelete", "EfCore8.ImprovedExecuteUpdateAndExecuteDelete\EfCore8.ImprovedExecuteUpdateAndExecuteDelete.csproj", "{2D7FDE22-B5E1-402A-A6C8-60679AA03B9F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfCore8.NumericRowVersions", "EfCore8.NumericRowVersions\EfCore8.NumericRowVersions.csproj", "{772FF8B2-7A10-4EF4-9A43-5BFF183FAE6A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EfCore8.NumericRowVersions", "EfCore8.NumericRowVersions\EfCore8.NumericRowVersions.csproj", "{772FF8B2-7A10-4EF4-9A43-5BFF183FAE6A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
