@@ -141,6 +141,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EfCore8.ImprovedExecuteUpda
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EfCore8.NumericRowVersions", "EfCore8.NumericRowVersions\EfCore8.NumericRowVersions.csproj", "{772FF8B2-7A10-4EF4-9A43-5BFF183FAE6A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfCore8.HierarchyIdSupportForSqlServer", "EfCore8.HierarchyIdSupportForSqlServer\EfCore8.HierarchyIdSupportForSqlServer.csproj", "{64343507-191E-424F-88CC-640BBC75B3A7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -295,6 +297,10 @@ Global
 		{772FF8B2-7A10-4EF4-9A43-5BFF183FAE6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{772FF8B2-7A10-4EF4-9A43-5BFF183FAE6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{772FF8B2-7A10-4EF4-9A43-5BFF183FAE6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64343507-191E-424F-88CC-640BBC75B3A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64343507-191E-424F-88CC-640BBC75B3A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64343507-191E-424F-88CC-640BBC75B3A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64343507-191E-424F-88CC-640BBC75B3A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -337,6 +343,7 @@ Global
 		{7D74F194-C09B-4249-8226-BF16B2CD9CD1} = {0B772F44-A4B1-4B26-8111-299052725950}
 		{2D7FDE22-B5E1-402A-A6C8-60679AA03B9F} = {4DC3E4A8-51AD-4365-BBA4-BB0FF49E780D}
 		{772FF8B2-7A10-4EF4-9A43-5BFF183FAE6A} = {21C3441D-E370-47F1-9F1F-1DED8ADE6FFF}
+		{64343507-191E-424F-88CC-640BBC75B3A7} = {EDD877DD-F665-4425-9F7A-F441CFE31994}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {09DE9320-026F-4BC5-A0EC-7FABCCE71CED}
