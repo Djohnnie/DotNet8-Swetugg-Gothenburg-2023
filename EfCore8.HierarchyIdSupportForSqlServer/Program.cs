@@ -61,7 +61,7 @@ foreach( var halfling in generation)
 
 Console.WriteLine("Query all descendants");
 var descendants = await dbContext.Halflings.Where(
-        descendent => descendent.PathFromPatriarch.GetAncestor(1) == dbContext.Halflings
+        descendent => descendent.PathFromPatriarch.GetAncestor(2) == dbContext.Halflings
             .Single(ancestor => ancestor.Name == "Dudo").PathFromPatriarch).ToListAsync();
 
 foreach (var halfling in descendants)

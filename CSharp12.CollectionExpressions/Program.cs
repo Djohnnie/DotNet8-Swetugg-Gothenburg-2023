@@ -9,6 +9,7 @@ Console.WriteLine("Hello, World!");
 
 
 int[] a1 = { 2, 3, 4 };
+
 int[] a2 = [6, 7, 8];
 int[] a = [1, .. a1, 5, .. a2, 9];
 
@@ -24,10 +25,13 @@ Span<char> chars = ['a', 'b', 'c', 'd', 'e'];
 char[] chars2 = [ 'a', 'b', 'c', 'd', 'e' ];
 char[] chars3 = { 'a', 'b', 'c', 'd', 'e' };
 
-//CharBuffer buffer = ['H', 'e', 'l', 'l', 'o'];
+CharBuffer buffer = ['H', 'e', 'l', 'l', 'o'];
 
 
 
+
+
+[CollectionBuilder(typeof(CharBufferBuilder), "Create")]
 public class CharBuffer : IEnumerable<char>
 {
     private readonly char[] _buffer = new char[80];
@@ -45,7 +49,6 @@ public class CharBuffer : IEnumerable<char>
     IEnumerator IEnumerable.GetEnumerator() => _buffer.GetEnumerator();
 }
 
-[CollectionBuilder(typeof(CharBuffer), "Create")]
 internal static class CharBufferBuilder
 {
     internal static CharBuffer Create(ReadOnlySpan<char> values) => new CharBuffer(values);
